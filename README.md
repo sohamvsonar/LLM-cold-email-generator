@@ -20,11 +20,13 @@ Cold Email Generation: Automatically generate cold emails tailored to the job de
 # Installation
 Clone this repository:
 ```bash
-  git clone https://github.com/sohamvsonar/LLM-cold-email-generator.git ```
+  git clone https://github.com/sohamvsonar/LLM-cold-email-generator.git
+  ```
 
 Install the required packages:
 ```bash
-  pip install openai python-dotenv ipywidgets ```
+  pip install openai python-dotenv ipywidgets
+  ```
 
 Create a .env file in the project root and add your OpenAI API key:
 ```bash
