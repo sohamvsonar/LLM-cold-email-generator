@@ -38,4 +38,4 @@ Create a .env file in the project root and add your OpenAI API key:
 - Run all cells in the notebook.
 - Use the provided input fields to enter company and recipient information.
 - Click the "Generate Email" button to create a personalized cold email.
-- The generated email will be displayed below the input fields
+- The generated email will be displayed below the input fields.
